@@ -206,21 +206,37 @@ Leader Mission 模组中的胜利方式有：
 		"
 		"Unbuildable"
 		"Cannot be purchased"
+		[
+
+	{
+		"name": "Palace",
+		"isNationalWonder": true,
+		"production": 3,
+		"science": 3,
+		"gold": 5,
+		"culture": 2,
+		"cityStrength": 2,
+		"cityHealth": 25,
+		"cost": 1,
+		"uniques": ["Indicates the capital city","Provides [7] [Aluminum] <after discovering [电学]>",
+		"Provides [1] [Solt-The Kite Runner]","Provides [1] [Solt-A Thousand Splendid Suns]",
+		"Provides [1] [Solt-War and Peace]","Provides [1] [Solt-Resurrection]",
 		]
-                {
+	},
+        {
 		"name": "Infinite gold",
 		"gold": 99999,
 		"cost": 99999999999,
 		"hurryCostModifier": 99999999999,
-		"maintenance": 999
-	},      "uniques":["Hiidden when difficulty is [Settler],[Chieftain],[Legend]"]
+		"maintenance": 999,
+	},      "uniques":["Hiidden when difficulty is [Settler],[Chieftain],[Legend]"],
 	{
 		"name": "Cultural increase",
 		"gold": 999,
 		"culture": 250,
 		"cost": 99999999999,
 		"hurryCostModifier": 99999999999,
-		"maintenance": 999
+		"maintenance": 999,
 	},
 	{
 		"name": "Faith increase",
@@ -237,7 +253,7 @@ Leader Mission 模组中的胜利方式有：
 		"science": 250,
 		"cost": 99999999999,
 		"hurryCostModifier": 99999999999,
-		"maintenance": 999
+		"maintenance": 999,
 	},
 	{
 		"name": "Food increase",
@@ -245,7 +261,7 @@ Leader Mission 模组中的胜利方式有：
 		"food": 250,
 		"cost": 99999999999,
 		"hurryCostModifier": 99999999999,
-		"maintenance": 999
+		"maintenance": 999,
 	},
 	{
 		"name": "New unit XP increase",
@@ -262,7 +278,7 @@ Leader Mission 模组中的胜利方式有：
 		"cityHealth": 1000,
 		"cost": 99999999999,
 		"hurryCostModifier": 99999999999,
-		"maintenance": 999
+		"maintenance": 999,
 	},
 	{
 		"name": "Increased city production",
@@ -270,7 +286,7 @@ Leader Mission 模组中的胜利方式有：
 		"production": 500,
 		"cost": 99999999999,
 		"hurryCostModifier": 99999999999,
-		"maintenance": 999
+		"maintenance": 999,
 	},
 	{
 		"name": "Scientist point",
@@ -304,21 +320,6 @@ Leader Mission 模组中的胜利方式有：
 		"hurryCostModifier": 99999999999,
 		"maintenance": 999,
 	}
-	},
-	{
-		"name": "Palace",
-		"isNationalWonder": true,
-		"production": 3,
-		"science": 3,
-		"gold": 5,
-		"culture": 2,
-		"cityStrength": 2,
-		"cityHealth": 25,
-		"cost": 1,
-		"uniques": ["Indicates the capital city","Provides [7] [Aluminum] <after discovering [电学]>",
-		"Provides [1] [Solt-The Kite Runner]","Provides [1] [Solt-A Thousand Splendid Suns]",
-		"Provides [1] [Solt-War and Peace]","Provides [1] [Solt-Resurrection]",
-		]
 	},
 	{
 		"name": "Bonfire",
