@@ -229,7 +229,7 @@ Leader Mission 模组中的胜利方式有：
 		"cost": 99999999999,
 		"hurryCostModifier": 99999999999,
 		"maintenance": 999,
-	},      "uniques":["Hiidden when [difficulty] is [Settler],[Chieftain],[Legend]"],
+	},     
 	{
 		"name": "Cultural increase",
 		"gold": 999,
