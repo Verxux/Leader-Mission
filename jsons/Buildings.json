@@ -206,7 +206,7 @@ Leader Mission 模组中的胜利方式有：
 		"
 		"Unbuildable"
 		"Cannot be purchased"
-		[
+                ]
 
 	{
 		"name": "Palace",
@@ -223,7 +223,7 @@ Leader Mission 模组中的胜利方式有：
 		"Provides [1] [Solt-War and Peace]","Provides [1] [Solt-Resurrection]",
 		]
 	},
-    {
+        {
 		"name": "Infinite gold",
 		"gold": 99999,
 		"cost": 99999999999,
@@ -352,7 +352,7 @@ Leader Mission 模组中的胜利方式有：
 			"Unsellable"
 			],
 		"requiredTech": "Pottery"
-    },
+        },
 	{
 		"name": "Water Mill",
 		"maintenance": 1,
@@ -360,7 +360,7 @@ Leader Mission 模组中的胜利方式有：
 		"production": 1,
 		"uniques": ["Must be on [River]",	"[+1 Production] from [Wheat] tiles [in this city]","Unsellable"],
 		"requiredTech": "Agriculture"
-    },
+        },
 	{
 		"name": "Library",
 		"maintenance": 1,
