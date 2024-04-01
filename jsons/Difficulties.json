@@ -231,6 +231,7 @@
 		"turnBarbariansCanEnterPlayerTiles": 0,
 		"clearBarbarianCampReward": 25
 	},
+	        //Thought I should make it compatible with sandbox difficulty//
 		{
 		"name": "Sandbox",
 		"baseHappiness": 100,
